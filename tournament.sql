@@ -5,15 +5,15 @@
 
 
 --Step 1 Create Database:
---CREATE DATABASE tournament;
+CREATE DATABASE tournament;
 
 --Step 2 Create the needed table.
 
---CREATE TABLE players
---(
---  id serial,
---  name text,
---  wins int,
---  losses int,
---  matches int
---);
+CREATE TABLE players
+(
+  id serial,
+  name text,
+  wins int,
+  losses int,
+  matches int
+);
