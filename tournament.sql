@@ -4,10 +4,10 @@
 -- Then use the CREATE TABLE code to create the table that is needed.
 
 
---Step 1 Create Database:
+-- Step 1 Create Database:
 CREATE DATABASE tournament;
 
---Step 2 Create the needed table.
+-- Step 2 Create the needed table.
 
 CREATE TABLE players
 (
